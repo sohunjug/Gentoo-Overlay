@@ -25,3 +25,5 @@ Add this overlay this:
     layman -o https://raw.githubusercontent.com/sohunjug/Gentoo-Overlay/master/repositories.xml -f -a sohunjug
 
 ---
+
+[![Build Status](https://travis-ci.org/sohunjug/Gentoo-Overlay.svg?branch=master)](https://travis-ci.org/sohunjug/Gentoo-Overlay)
