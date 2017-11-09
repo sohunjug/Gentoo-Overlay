@@ -1,0 +1,12 @@
+<repositories encoding="unicode" version="1.1">
+  <repo priority="50" quality="experimental">
+    <name>sohunjug</name>
+    <description>electron's app</description>
+    <homepage>https://github.com/sohunjug/Gentoo-Overlay</homepage>
+    <owner>
+      <email>sohunjug@gmail.com</email>
+      <name>sohunjug</name>
+    </owner>
+    <source type="git">https://github.com/sohunjug/Gentoo-Overlay.git</source>
+  </repo>
+</repositories>
